@@ -1,0 +1,113 @@
+{
+  "intents": [
+    {
+      "tag": "sad",
+      "patterns": [
+        "I am sad",
+        "feeling low",
+        "I feel depressed",
+        "unhappy"
+      ],
+      "responses": [
+        "I'm sorry you're feeling sad. I'm here to listen.",
+        "It's okay to feel this way. You are not alone."
+      ]
+    },
+    {
+      "tag": "stress",
+      "patterns": [
+        "I am stressed",
+        "too much pressure",
+        "I feel overwhelmed",
+        "stress at work"
+      ],
+      "responses": [
+        "Stress can be difficult. Try taking a deep breath.",
+        "A short break may help clear your mind."
+      ]
+    },
+    {
+      "tag": "anxiety",
+      "patterns": [
+        "I feel anxious",
+        "nervous",
+        "panic",
+        "worried a lot"
+      ],
+      "responses": [
+        "Anxiety can be tough. Try grounding yourself.",
+        "Focus on your breathing. You're safe right now."
+      ]
+    },
+    {
+      "tag": "happy",
+      "patterns": [
+        "I am happy",
+        "feeling good",
+        "great day",
+        "I feel positive"
+      ],
+      "responses": [
+        "That's wonderful to hear!",
+        "I'm glad you're feeling positive today."
+      ]
+    },
+    {
+      "tag": "lonely",
+      "patterns": [
+        "I feel lonely",
+        "no one talks to me",
+        "I feel alone",
+        "I have no friends",
+        "I feel isolated"
+      ],
+      "responses": [
+        "Feeling lonely can be really hard. I'm here with you.",
+        "You're not alone right now. I'm listening."
+      ]
+    },
+    {
+      "tag": "tired",
+      "patterns": [
+        "I am tired",
+        "exhausted",
+        "no energy",
+        "burned out",
+        "mentally tired"
+      ],
+      "responses": [
+        "It sounds like you need some rest.",
+        "Taking a short break might help you recharge."
+      ]
+    },
+    {
+      "tag": "overthinking",
+      "patterns": [
+        "I overthink everything",
+        "my mind won't stop",
+        "thinking too much",
+        "constant thoughts",
+        "I can't relax my mind"
+      ],
+      "responses": [
+        "Overthinking can be exhausting. Try focusing on one thing at a time.",
+        "Slow breathing can help calm racing thoughts."
+      ]
+    },
+    {
+      "tag": "greeting",
+      "patterns": [
+        "hi",
+        "hello",
+        "hey",
+        "good morning",
+        "good evening"
+      ],
+      "responses": [
+        "Hello! How are you feeling today?",
+        "Hi there! I'm here to listen."
+      ]
+    }
+  ]
+}
+
