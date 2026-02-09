@@ -1,1 +1,1 @@
-# Mental-health-chatbox
+This project is a mental health chatbot developed to simulate supportive conversations and promote mental health awareness. It is intended for educational use and showcases fundamental chatbot logic and user interaction design.
